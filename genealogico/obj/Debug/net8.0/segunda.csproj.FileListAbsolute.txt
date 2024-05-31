@@ -1,0 +1,14 @@
+I:\defontana\prueba\segunda\bin\Debug\net8.0\segunda.exe
+I:\defontana\prueba\segunda\bin\Debug\net8.0\segunda.deps.json
+I:\defontana\prueba\segunda\bin\Debug\net8.0\segunda.runtimeconfig.json
+I:\defontana\prueba\segunda\bin\Debug\net8.0\segunda.dll
+I:\defontana\prueba\segunda\bin\Debug\net8.0\segunda.pdb
+I:\defontana\prueba\segunda\obj\Debug\net8.0\segunda.GeneratedMSBuildEditorConfig.editorconfig
+I:\defontana\prueba\segunda\obj\Debug\net8.0\segunda.AssemblyInfoInputs.cache
+I:\defontana\prueba\segunda\obj\Debug\net8.0\segunda.AssemblyInfo.cs
+I:\defontana\prueba\segunda\obj\Debug\net8.0\segunda.csproj.CoreCompileInputs.cache
+I:\defontana\prueba\segunda\obj\Debug\net8.0\segunda.dll
+I:\defontana\prueba\segunda\obj\Debug\net8.0\refint\segunda.dll
+I:\defontana\prueba\segunda\obj\Debug\net8.0\segunda.pdb
+I:\defontana\prueba\segunda\obj\Debug\net8.0\segunda.genruntimeconfig.cache
+I:\defontana\prueba\segunda\obj\Debug\net8.0\ref\segunda.dll
